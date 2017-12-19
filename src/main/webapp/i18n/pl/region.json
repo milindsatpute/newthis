@@ -1,0 +1,21 @@
+{
+    "newthisApp": {
+        "region" : {
+            "home": {
+                "title": "Regions",
+                "createLabel": "Dodaj Region",
+                "createOrEditLabel": "Dodaj lub edytuj: Region"
+            },
+            "created": "Utworzono nowy Region z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Region z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Region z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Region {{ id }}?"
+            },
+            "detail": {
+                "title": "Region"
+            },
+            "regionName": "Region Name"
+        }
+    }
+}

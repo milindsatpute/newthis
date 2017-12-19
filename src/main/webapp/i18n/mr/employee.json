@@ -1,0 +1,30 @@
+{
+    "newthisApp": {
+        "employee" : {
+            "home": {
+                "title": "Employees",
+                "createLabel": "नवीन Employee तयार करा",
+                "createOrEditLabel": "Employee तयार किंवा संपादित करा"
+            },
+            "created": "Employee [identifier: {{ param }}] तयार आहे",
+            "updated": "Employee [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Employee [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Employee [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "hireDate": "Hire Date",
+            "salary": "Salary",
+            "commissionPct": "Commission Pct",
+            "department": "Department",
+            "job": "Job",
+            "manager": "Manager"
+        }
+    }
+}

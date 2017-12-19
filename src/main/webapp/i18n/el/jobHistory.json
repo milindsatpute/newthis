@@ -1,0 +1,26 @@
+{
+    "newthisApp": {
+        "jobHistory" : {
+            "home": {
+                "title": "Job Histories",
+                "createLabel": "Δημιουργήστε ένα νέο Job History",
+                "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Job History"
+            },
+            "created": "Ένα νέο Job History έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+            "updated": "Ένα Job History έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+            "deleted": "Ένα Job History έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+            "delete": {
+                "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Job History {{ id }};"
+            },
+            "detail": {
+                "title": "Job History"
+            },
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "language": "Language",
+            "job": "Job",
+            "department": "Department",
+            "employee": "Employee"
+        }
+    }
+}

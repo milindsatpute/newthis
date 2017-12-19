@@ -1,0 +1,30 @@
+{
+    "newthisApp": {
+        "employee" : {
+            "home": {
+                "title": "Employees",
+                "createLabel": "สร้าง Employee",
+                "createOrEditLabel": "สร้างหรือแก้ไข Employee"
+            },
+            "created": "Employee ถูกสร้างด้วย {{ param }}",
+            "updated": "Employee ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Employee ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Employee {{ id }}?"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "hireDate": "Hire Date",
+            "salary": "Salary",
+            "commissionPct": "Commission Pct",
+            "department": "Department",
+            "job": "Job",
+            "manager": "Manager"
+        }
+    }
+}

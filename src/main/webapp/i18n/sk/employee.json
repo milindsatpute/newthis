@@ -1,0 +1,30 @@
+{
+    "newthisApp": {
+        "employee" : {
+            "home": {
+                "title": "Employees",
+                "createLabel": "Pridať Employee",
+                "createOrEditLabel": "Pridať alebo upraviť Employee"
+            },
+            "created": "Bol vytvorený potomok entity Employee s identifikátorom {{ param }}",
+            "updated": "Potomok entity Employee s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Employee s identifikátorom {{ param }} bol vymazaný.",
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Employee {{ id }}?"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "hireDate": "Hire Date",
+            "salary": "Salary",
+            "commissionPct": "Commission Pct",
+            "department": "Department",
+            "job": "Job",
+            "manager": "Manager"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "newthisApp": {
+        "jobHistory" : {
+            "home": {
+                "title": "Job Histories",
+                "createLabel": "Pridať Job History",
+                "createOrEditLabel": "Pridať alebo upraviť Job History"
+            },
+            "created": "Bol vytvorený potomok entity Job History s identifikátorom {{ param }}",
+            "updated": "Potomok entity Job History s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Job History s identifikátorom {{ param }} bol vymazaný.",
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Job History {{ id }}?"
+            },
+            "detail": {
+                "title": "Job History"
+            },
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "language": "Language",
+            "job": "Job",
+            "department": "Department",
+            "employee": "Employee"
+        }
+    }
+}

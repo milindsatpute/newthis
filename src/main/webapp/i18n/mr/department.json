@@ -1,0 +1,23 @@
+{
+    "newthisApp": {
+        "department" : {
+            "home": {
+                "title": "Departments",
+                "createLabel": "नवीन Department तयार करा",
+                "createOrEditLabel": "Department तयार किंवा संपादित करा"
+            },
+            "created": "Department [identifier: {{ param }}] तयार आहे",
+            "updated": "Department [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Department [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Department [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Department"
+            },
+            "departmentName": "Department Name",
+            "location": "Location",
+            "employee": "Employee"
+        }
+    }
+}

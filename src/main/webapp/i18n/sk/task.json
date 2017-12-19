@@ -1,0 +1,23 @@
+{
+    "newthisApp": {
+        "task" : {
+            "home": {
+                "title": "Tasks",
+                "createLabel": "Pridať Task",
+                "createOrEditLabel": "Pridať alebo upraviť Task"
+            },
+            "created": "Bol vytvorený potomok entity Task s identifikátorom {{ param }}",
+            "updated": "Potomok entity Task s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Task s identifikátorom {{ param }} bol vymazaný.",
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Task {{ id }}?"
+            },
+            "detail": {
+                "title": "Task"
+            },
+            "title": "Title",
+            "description": "Description",
+            "job": "Job"
+        }
+    }
+}

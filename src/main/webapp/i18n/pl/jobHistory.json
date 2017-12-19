@@ -1,0 +1,26 @@
+{
+    "newthisApp": {
+        "jobHistory" : {
+            "home": {
+                "title": "Job Histories",
+                "createLabel": "Dodaj Job History",
+                "createOrEditLabel": "Dodaj lub edytuj: Job History"
+            },
+            "created": "Utworzono nowy Job History z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Job History z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Job History z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Job History {{ id }}?"
+            },
+            "detail": {
+                "title": "Job History"
+            },
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "language": "Language",
+            "job": "Job",
+            "department": "Department",
+            "employee": "Employee"
+        }
+    }
+}

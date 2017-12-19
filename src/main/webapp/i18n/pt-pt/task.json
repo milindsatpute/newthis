@@ -1,0 +1,23 @@
+{
+    "newthisApp": {
+        "task" : {
+            "home": {
+                "title": "Tasks",
+                "createLabel": "Criar um(a) novo(a) Task",
+                "createOrEditLabel": "Criar ou editar um(a) Task"
+            },
+            "created": "A new Task is created with identifier {{ param }}",
+            "updated": "A Task is updated with identifier {{ param }}",
+            "deleted": "A Task is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Task {{ id }}?"
+            },
+            "detail": {
+                "title": "Task"
+            },
+            "title": "Title",
+            "description": "Description",
+            "job": "Job"
+        }
+    }
+}

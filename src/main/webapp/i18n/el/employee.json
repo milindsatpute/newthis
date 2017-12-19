@@ -1,0 +1,30 @@
+{
+    "newthisApp": {
+        "employee" : {
+            "home": {
+                "title": "Employees",
+                "createLabel": "Δημιουργήστε ένα νέο Employee",
+                "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Employee"
+            },
+            "created": "Ένα νέο Employee έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+            "updated": "Ένα Employee έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+            "deleted": "Ένα Employee έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+            "delete": {
+                "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Employee {{ id }};"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "hireDate": "Hire Date",
+            "salary": "Salary",
+            "commissionPct": "Commission Pct",
+            "department": "Department",
+            "job": "Job",
+            "manager": "Manager"
+        }
+    }
+}

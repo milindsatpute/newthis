@@ -1,0 +1,23 @@
+{
+    "newthisApp": {
+        "task" : {
+            "home": {
+                "title": "Tasks",
+                "createLabel": "Ստեղծել նոր Task",
+                "createOrEditLabel": "Ստեղծել կամ փոփոխել Task"
+            },
+            "created": "Նոր Task ստեղծված է {{ param }} նունացուցիչով",
+            "updated": "Task թարմացվաց է {{ param }} նունացուցիչով",
+            "deleted": "Task հեռացված է {{ param }}  նունացուցիչով",
+            "delete": {
+                "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Task {{ id }}?"
+            },
+            "detail": {
+                "title": "Task"
+            },
+            "title": "Title",
+            "description": "Description",
+            "job": "Job"
+        }
+    }
+}
