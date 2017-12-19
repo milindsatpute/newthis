@@ -1,0 +1,26 @@
+{
+    "newthisApp": {
+        "jobHistory" : {
+            "home": {
+                "title": "Job Histories",
+                "createLabel": "สร้าง Job History",
+                "createOrEditLabel": "สร้างหรือแก้ไข Job History"
+            },
+            "created": "Job History ถูกสร้างด้วย {{ param }}",
+            "updated": "Job History ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Job History ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Job History {{ id }}?"
+            },
+            "detail": {
+                "title": "Job History"
+            },
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "language": "Language",
+            "job": "Job",
+            "department": "Department",
+            "employee": "Employee"
+        }
+    }
+}

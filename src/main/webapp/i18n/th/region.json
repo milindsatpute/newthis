@@ -1,0 +1,21 @@
+{
+    "newthisApp": {
+        "region" : {
+            "home": {
+                "title": "Regions",
+                "createLabel": "สร้าง Region",
+                "createOrEditLabel": "สร้างหรือแก้ไข Region"
+            },
+            "created": "Region ถูกสร้างด้วย {{ param }}",
+            "updated": "Region ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Region ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Region {{ id }}?"
+            },
+            "detail": {
+                "title": "Region"
+            },
+            "regionName": "Region Name"
+        }
+    }
+}

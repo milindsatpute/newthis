@@ -1,0 +1,30 @@
+{
+    "newthisApp": {
+        "employee" : {
+            "home": {
+                "title": "Employees",
+                "createLabel": "Criar um(a) novo(a) Employee",
+                "createOrEditLabel": "Criar ou editar um(a) Employee"
+            },
+            "created": "A new Employee is created with identifier {{ param }}",
+            "updated": "A Employee is updated with identifier {{ param }}",
+            "deleted": "A Employee is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Employee {{ id }}?"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "hireDate": "Hire Date",
+            "salary": "Salary",
+            "commissionPct": "Commission Pct",
+            "department": "Department",
+            "job": "Job",
+            "manager": "Manager"
+        }
+    }
+}

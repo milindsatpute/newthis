@@ -1,0 +1,25 @@
+{
+    "newthisApp": {
+        "location" : {
+            "home": {
+                "title": "Locations",
+                "createLabel": "สร้าง Location",
+                "createOrEditLabel": "สร้างหรือแก้ไข Location"
+            },
+            "created": "Location ถูกสร้างด้วย {{ param }}",
+            "updated": "Location ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Location ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Location {{ id }}?"
+            },
+            "detail": {
+                "title": "Location"
+            },
+            "streetAddress": "Street Address",
+            "postalCode": "Postal Code",
+            "city": "City",
+            "stateProvince": "State Province",
+            "country": "Country"
+        }
+    }
+}

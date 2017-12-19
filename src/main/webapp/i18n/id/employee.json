@@ -1,0 +1,30 @@
+{
+    "newthisApp": {
+        "employee" : {
+            "home": {
+                "title": "Employees",
+                "createLabel": "Buat Employee baru",
+                "createOrEditLabel": "Buat atau edit Employee"
+            },
+            "created": "Employee dengan id {{ param }} telah dibuat",
+            "updated": "Employee dengan id {{ param }} telah diperbaharui",
+            "deleted": "Employee dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Employee {{ id }}?"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "hireDate": "Hire Date",
+            "salary": "Salary",
+            "commissionPct": "Commission Pct",
+            "department": "Department",
+            "job": "Job",
+            "manager": "Manager"
+        }
+    }
+}

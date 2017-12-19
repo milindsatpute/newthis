@@ -1,0 +1,23 @@
+{
+    "newthisApp": {
+        "task" : {
+            "home": {
+                "title": "Tasks",
+                "createLabel": "Δημιουργήστε ένα νέο Task",
+                "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Task"
+            },
+            "created": "Ένα νέο Task έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+            "updated": "Ένα Task έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+            "deleted": "Ένα Task έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+            "delete": {
+                "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Task {{ id }};"
+            },
+            "detail": {
+                "title": "Task"
+            },
+            "title": "Title",
+            "description": "Description",
+            "job": "Job"
+        }
+    }
+}

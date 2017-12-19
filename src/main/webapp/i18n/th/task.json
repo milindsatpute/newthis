@@ -1,0 +1,23 @@
+{
+    "newthisApp": {
+        "task" : {
+            "home": {
+                "title": "Tasks",
+                "createLabel": "สร้าง Task",
+                "createOrEditLabel": "สร้างหรือแก้ไข Task"
+            },
+            "created": "Task ถูกสร้างด้วย {{ param }}",
+            "updated": "Task ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Task ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Task {{ id }}?"
+            },
+            "detail": {
+                "title": "Task"
+            },
+            "title": "Title",
+            "description": "Description",
+            "job": "Job"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "newthisApp": {
+        "region" : {
+            "home": {
+                "title": "Regions",
+                "createLabel": "Pridať Region",
+                "createOrEditLabel": "Pridať alebo upraviť Region"
+            },
+            "created": "Bol vytvorený potomok entity Region s identifikátorom {{ param }}",
+            "updated": "Potomok entity Region s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Region s identifikátorom {{ param }} bol vymazaný.",
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Region {{ id }}?"
+            },
+            "detail": {
+                "title": "Region"
+            },
+            "regionName": "Region Name"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "newthisApp": {
+        "country" : {
+            "home": {
+                "title": "Countries",
+                "createLabel": "Dodaj Country",
+                "createOrEditLabel": "Dodaj lub edytuj: Country"
+            },
+            "created": "Utworzono nowy Country z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Country z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Country z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Country {{ id }}?"
+            },
+            "detail": {
+                "title": "Country"
+            },
+            "countryName": "Country Name",
+            "region": "Region"
+        }
+    }
+}
